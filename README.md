@@ -43,7 +43,7 @@ O trabalho foi estruturado utilizando os padrões de design **DAO** (Data Access
 - Garantir a segurança nas trocas de dados (autenticação e autorização)
 
 ## 7. Diagrama de Classe: 
-![diagrama de classe](https://github.com/RodrigoGazolli/LoopSocial/main/diagrama.png?raw=true)
+![Diagrama de Classe](https://github.com/RodrigoGazolli/LoopSocial/raw/main/diagrama.png)
 
 
 ## 8. Código SQL

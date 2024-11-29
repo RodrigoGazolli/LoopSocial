@@ -9,7 +9,7 @@ A aplicação foi construída utilizando as tecnologias:
 - **Java** (para o back-end).
 - **MySQL** (para o banco de dados).
 - **BootStrap** (para o front-end).
-- **NetBeans** como IDE 
+- **NetBeans** como IDE.
 
 
 
